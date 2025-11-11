@@ -103,7 +103,7 @@ startBtn.addEventListener("click", () => {
 
   currentIndex = 0;
 
-  studyArea.style.disaplay = "block"
+  studyArea.style.disaplay = "block";
 
 
   // 学習モードを表示
@@ -151,4 +151,5 @@ nextBtn.addEventListener("click", () => {
 
   nextBtn.disabled = false;
   showQuestion();
+
 });
