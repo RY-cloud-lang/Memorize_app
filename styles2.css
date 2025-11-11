@@ -85,6 +85,7 @@ ul {
     font-size: 16px;
     border-radius: 8px;
     cursor: pointer;
+    margin: 20px;
 }
 
 #finish-btn {
@@ -95,4 +96,6 @@ ul {
     font-size: 16px;
     border-radius: 8px;
     cursor: pointer;
+    margin: 20px;
 }
+
