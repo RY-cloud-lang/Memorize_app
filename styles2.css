@@ -100,8 +100,8 @@ ul {
 }
 
 button:disabled {
-    background-color: light-dark(rgba(239, 239, 239, 0.3), rgba(19, 1, 1, 0.3)); !important
-    color: light-dark(rgba(16, 16, 16, 0.3), rgba(255, 255, 255, 0.3)); !important
+    background-color: light-dark(rgba(239, 239, 239, 0.3), rgba(19, 1, 1, 0.3)); !important;
+    color: light-dark(rgba(16, 16, 16, 0.3), rgba(255, 255, 255, 0.3)); !important;
 }
 
 #new-memorize-question {
@@ -111,6 +111,7 @@ button:disabled {
 #new-memorize-answer {
   background-color: #e8f5e9;
 }
+
 
 
 
