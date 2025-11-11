@@ -1,0 +1,88 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #9fbce9;
+  padding: 20px;
+  text-align: center;
+}
+
+.Memorize-app {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.card {
+  background: white;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.question {
+  background-color: #e3f2fd;
+  padding: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.answer {
+  background-color: #e8f5e9;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+
+#add-btn {
+  background-color: #4CAF50; 
+  color: white;              
+  border: none;              
+  padding: 10px 20px;        
+  font-size: 16px;           
+  border-radius: 8px;        
+  cursor: pointer;           
+  transition: background-color 0.3s ease;
+}
+
+
+#add-btn:hover {
+  background-color: #45a020; 
+}
+
+#start-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.Btns {
+  margin: 20px;
+
+}
+
+#study-area {
+  text-align: center;
+}
+
+#study-card {
+  background: #fafafa;
+  border-radius: 8px;
+}
+
+#next-btn {
+  font-size: 18px;
+  cursor: pointer;
+}
+
+#finish-btn {
+  font-size: 18px;
+  cursor: pointer;
+}
